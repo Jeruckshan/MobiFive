@@ -1,0 +1,30 @@
+Components
+
+ 1.Microcontroller 
+1.Aduino UNO=1
+
+ 2.Sensors
+1.IR Sensor=2
+2.Ultrasonic Sensor=1
+
+ 3.Power
+1.7.4v Battery and chase =1
+2.Switch 
+
+ 4.Motor
+1.TT Motor
+2.sg90 servo motor
+
+ 5.Other Modules
+1.HC05 Bluetooth Module
+2.KY-022 Infrared Receiver Module
+3.IR Remote Controller
+
+ 6.Tools
+1.Soldering Iron and Soldering Lead
+2.Glue Gun and Glue Stick 
+3.ScrewDriver
+4.Scissor
+5.Jumper wires
+
+
